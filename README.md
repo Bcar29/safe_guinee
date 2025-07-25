@@ -1,16 +1,54 @@
-# safe_guinee
+# 🚧 Safe_Guinée
 
-A new Flutter project.
+**Safe_Guinée** est une application mobile développée avec Flutter qui permet aux citoyens de **signaler en temps réel les problèmes routiers** en Guinée. L’objectif est de contribuer à l’amélioration de la sécurité routière et à la fluidité du trafic en facilitant la remontée d’informations comme :
 
-## Getting Started
+-  Les embouteillages  
+-  Les routes dégradées  
+-  Les inondations et eaux stagnantes sur les routes  
+-  Autres incidents ou anomalies liées à la circulation  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Fonctionnalités principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-  **Géolocalisation** des incidents signalés  
+-  Ajout de **photos** pour illustrer les problèmes signalés  
+-  Description textuelle du problème  
+-  Affichage des incidents sur une **carte interactive**  
+-  Soumission rapide et simple des signalements  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Objectif du projet
+
+Safe_Guinée vise à :
+
+- Informer les usagers de la route en temps réel  
+- Aider les autorités à identifier les zones à risques ou à problèmes  
+- Encourager la **participation citoyenne** dans l’amélioration des infrastructures routières
+
+---
+
+##  Technologies utilisées
+
+- **Flutter** – Framework principal  
+- **Dart** – Langage de programmation  
+- **Google Maps API** – Affichage de la carte  
+- **Firebase** (ou autre backend) – Pour la gestion des données (selon implémentation)
+
+---
+
+##  Configuration du projet
+
+```bash
+# 1. Cloner le dépôt
+git clone https://github.com/<votre-utilisateur>/safe_guinee.git
+
+# 2. Se déplacer dans le dossier du projet
+cd safe_guinee
+
+# 3. Installer les dépendances
+flutter pub get
+
+# 4. Lancer l'application
+flutter run
