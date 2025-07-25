@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "986217921353",
+    "project_id": "nav-guinee",
+    "storage_bucket": "nav-guinee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986217921353:android:6ee97e9445c9a7c31b3898",
+        "android_client_info": {
+          "package_name": "com.domain.safe_guinee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986217921353-vdrf0g00n6feq0c5pas9qnvv5bgioca6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVwPE56enA--fapNVtPrmgobsKzX1Brk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986217921353-vdrf0g00n6feq0c5pas9qnvv5bgioca6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986217921353:android:ca351f6f875159321b3898",
+        "android_client_info": {
+          "package_name": "com.example.navguinee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986217921353-vdrf0g00n6feq0c5pas9qnvv5bgioca6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVwPE56enA--fapNVtPrmgobsKzX1Brk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986217921353-vdrf0g00n6feq0c5pas9qnvv5bgioca6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
