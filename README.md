@@ -42,7 +42,7 @@ Safe_Guinée vise à :
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<votre-utilisateur>/safe_guinee.git
+https://github.com/Bcar29/safe_guinee.git
 
 # 2. Se déplacer dans le dossier du projet
 cd safe_guinee
